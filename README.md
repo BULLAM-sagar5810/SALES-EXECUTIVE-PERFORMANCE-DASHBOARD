@@ -1,3 +1,6 @@
+<img width="1038" height="495" alt="స్క్రీన్‌షాట్ 2026-06-10 200709" src="https://github.com/user-attachments/assets/3205f44f-45bd-4204-bbb4-7e21c49578fa" />
+
+
 # Sales Executive Performance Dashboard
 
 ## Project Overview
